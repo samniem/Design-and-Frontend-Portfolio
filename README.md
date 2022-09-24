@@ -6,3 +6,6 @@ This is a project applying Thinking in React principles to a simple search funct
 
 ## [Login and Manage User Data with Adobe XD and React](https://github.com/samniem/login-and-manage-user-data)
 A project making use of Adobe XD for designing a two views user interface with one view for login management and the second for managing user data. The project uses form components and grids as a demonstration of my knowledge to apply these concepts to the implementation of a design. 
+
+## [Restful Cats](https://github.com/samniem/restfulcats)
+This is a project I did back in 2019 when I applied for my first web development related role at Telia. The project is old and the associated Heroku link is most likely not working anymore. However, I would say that the frontend with the Telia logo like cat is worth showing off.
