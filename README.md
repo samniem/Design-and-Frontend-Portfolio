@@ -1,5 +1,5 @@
 # Sami Nieminen Design and Frontend Portfolio
-This repository contains a listing of my frontend development related projects for ease of access
+This repository contains a listing of my design and frontend development related projects for ease of access
 
 ## [Products Bazaar Concept](https://github.com/samniem/products-bazaar-concept)
 This is a project applying Thinking in React principles to a simple search functionality for multiple data tables. The minimalist design was my first ever Adobe XD design project. The React coding style makes use of hooks inside stateful components. The project also applies Ramda library functions for grouping data for the tables in a consice but effective manner. 
