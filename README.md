@@ -1,4 +1,4 @@
-# Frontend Portfolio
+# Sami Nieminen Design and Frontend Portfolio
 This repository contains a listing of my frontend development related projects for ease of access
 
 ## [Products Bazaar Concept](https://github.com/samniem/products-bazaar-concept)
